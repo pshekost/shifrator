@@ -1,0 +1,18 @@
+C:\Users\Kosty\Desktop\Инженерия программного обеспечения\Шифр\UnitTest1\bin\Debug\UnitTest1.dll
+C:\Users\Kosty\Desktop\Инженерия программного обеспечения\Шифр\UnitTest1\bin\Debug\UnitTest1.pdb
+C:\Users\Kosty\Desktop\Инженерия программного обеспечения\Шифр\UnitTest1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kosty\Desktop\Инженерия программного обеспечения\Шифр\UnitTest1\bin\Debug\Шифр.exe
+C:\Users\Kosty\Desktop\Инженерия программного обеспечения\Шифр\UnitTest1\bin\Debug\Шифр.pdb
+C:\Users\Kosty\Desktop\Инженерия программного обеспечения\Шифр\UnitTest1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Kosty\Desktop\Инженерия программного обеспечения\Шифр\UnitTest1\obj\Debug\UnitTest1.csprojResolveAssemblyReference.cache
+C:\Users\Kosty\Desktop\Инженерия программного обеспечения\Шифр\UnitTest1\obj\Debug\UnitTest1.dll
+C:\Users\Kosty\Desktop\Инженерия программного обеспечения\Шифр\UnitTest1\obj\Debug\UnitTest1.pdb
+D:\РГППУ\4 курс\Инженерия программного обеспечения\Выполнено\Шифр\UnitTest1\bin\Debug\UnitTest1.dll
+D:\РГППУ\4 курс\Инженерия программного обеспечения\Выполнено\Шифр\UnitTest1\bin\Debug\UnitTest1.pdb
+D:\РГППУ\4 курс\Инженерия программного обеспечения\Выполнено\Шифр\UnitTest1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\РГППУ\4 курс\Инженерия программного обеспечения\Выполнено\Шифр\UnitTest1\bin\Debug\Шифр.exe
+D:\РГППУ\4 курс\Инженерия программного обеспечения\Выполнено\Шифр\UnitTest1\bin\Debug\Шифр.pdb
+D:\РГППУ\4 курс\Инженерия программного обеспечения\Выполнено\Шифр\UnitTest1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\РГППУ\4 курс\Инженерия программного обеспечения\Выполнено\Шифр\UnitTest1\obj\Debug\UnitTest1.csprojResolveAssemblyReference.cache
+D:\РГППУ\4 курс\Инженерия программного обеспечения\Выполнено\Шифр\UnitTest1\obj\Debug\UnitTest1.dll
+D:\РГППУ\4 курс\Инженерия программного обеспечения\Выполнено\Шифр\UnitTest1\obj\Debug\UnitTest1.pdb
