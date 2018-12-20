@@ -36,7 +36,7 @@ namespace Шифр
                         j++;
                     }
                     for (int i = 0; i <= mas.Length - 1; i++)
-                        Console.Write(mas[i] + " ");
+                        Console.Write("Зашифрованное сообщение: " + mas[i] + " ");
 
                 }
                 Console.ReadLine();
